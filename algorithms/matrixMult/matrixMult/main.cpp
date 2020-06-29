@@ -4,6 +4,7 @@
 //  add, subtract, multply, and divide matrices
 //  take input for num of row, column num first matrix elements and second matrix elements
 //  then perfrom
+//
 //  Created by Melissa Nguyen on 6/29/20.
 //
 
@@ -52,10 +53,6 @@ int main() {
         }
         cout << "\n";
     }
-    
-    
-    
-    
     
     return 0;
 }
