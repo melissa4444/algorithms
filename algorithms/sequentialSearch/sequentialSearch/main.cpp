@@ -1,7 +1,8 @@
 //
 //  main.cpp
 //  sequentialSearch
-//  simpliest search is applicablt to a table organized either as an array or a linked list
+//  simpliest search is applicable to a table organized either as an array or a linked list
+//  best case is one comparison , worst case is n comparisons O(n), avaerage case (n+1)/2 O(n)
 //  Created by Melissa Nguyen on 6/29/20.
 //
 
