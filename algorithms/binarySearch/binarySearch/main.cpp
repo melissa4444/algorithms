@@ -24,7 +24,7 @@ int main()
     vector<int> v = {3,1,4,6,5};
     
     if (binary_search(v.begin(), v.end(), 4)) {
-        cout << "4 found";
+        cout << "4 found/n";
     }
     else{
         cout << "4 not found " << endl;
